@@ -1,7 +1,7 @@
 function csv2struct(filename,output)
 % filename = 'apogeevisit.csv';
 % output = 'apogeevisit';
-
+% 
 
 %%
 data = importdata(filename,',',1);
